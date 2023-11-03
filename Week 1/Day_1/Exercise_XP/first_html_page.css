@@ -1,0 +1,90 @@
+.title {
+    text-align: center;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p.link{
+    text-align: center;
+    font-weight: bold;
+}
+
+.subtitle h2{
+    text-align: center;
+    color: blueviolet;
+}
+.info p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+}
+.catsenses{
+    margin-left: 75px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    color: brown;
+}
+
+.History h3{
+    text-align: center;
+    color: aquamarine;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+.History p{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: bold;
+}
+
+ .list li{
+    /* text-align: center; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    font-weight: bolder;
+    text-align: center;
+    
+ }
+
+ .list ol{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    
+ }
+
+ .image{
+    display: flex;
+    justify-content: space-between ;
+    background-color: yellow;
+    
+}
+.rectangle{
+    background-color: brown;
+    height: 20px;
+    width: auto;
+    margin-top: 20px;
+}
+.media h2{
+    text-align: center;
+    color: darkorchid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.thelion h1{
+    text-align: center;
+    color: darkorchid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+
+}
+
+.table{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
