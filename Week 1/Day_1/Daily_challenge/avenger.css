@@ -1,5 +1,129 @@
-.nav{
-    display: block;
+/* *{
+    margin: 0;
+    padding: 0;
     font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #131313;
+    background-color: #222121;
+  }
+  li {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+  }
+  .logo{
+    position: absolute;
+    bottom: 42.7em;
+    margin-left: 50px; 
+}
+main {
+    background-image: url("168069577-2f570d08-61d3-49d8-b7dd-c4b9192aaf68.jpg");
+    height: 115vh;
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+  }
 
+  a{
+    text-decoration: none;
+    color: #ffffff;
+  }
+  title {
+    color: #ffffff;
+  }
+  info{
+
+  } */
+  body {
+    font-family: 'Lora', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+nav {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 33px;
+    
+}
+
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    margin: -20px;
+    
+    
+    
+}
+
+nav a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  padding:30px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 30px;
+}
+
+.logo {
+    position: absolute;
+    bottom: 41em;
+    margin-left: 50px; 
+}
+
+.logo img {
+    height: 50px;
+}
+
+main {
+    padding: 20px;
+    background-image: url("168069577-2f570d08-61d3-49d8-b7dd-c4b9192aaf68.jpg");
+    height: 115vh;
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+}
+
+.title {
+    text-align: left;
+    padding: 60px;
+}
+
+.title h1 {
+    font-size: 70px;
+    color: #0e0000;
+}
+
+.info {
+    background-color: rgba(0, 0, 0, 0.275);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 250px;
 }
