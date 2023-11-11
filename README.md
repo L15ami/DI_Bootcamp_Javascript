@@ -1,1 +1,2 @@
-# DI_Bootcamp_Javascript
+# DI_Bootcamp_JavaScript
+
