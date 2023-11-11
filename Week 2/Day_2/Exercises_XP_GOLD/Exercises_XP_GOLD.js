@@ -44,4 +44,7 @@
 //     console.log(userinput);
 // }
 
+// Exercise 4 : The “Odd Ones Out” Game
+console.log("correction")
+
 
